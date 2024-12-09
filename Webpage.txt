@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>An unordered list</h1>
+        <ul>
+            <li>Math</li>
+            <li>Computer</li>
+            <li>Physics</li>
+        </ul>
+        <h1>An unordered list</h1>
+        <ol>
+            <li>Maths</li>
+            <li>Computer</li>
+            <li>Physics</li>
+        </ul>
+     </body>
+</html>
